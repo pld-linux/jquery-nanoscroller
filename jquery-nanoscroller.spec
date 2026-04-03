@@ -2,7 +2,7 @@
 Summary:	jQuery nanoScroller plugin
 Name:		jquery-%{plugin}
 Version:	0.7.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/WWW
 Source0:	https://github.com/jamesflorentino/nanoScrollerJS/archive/%{version}.tar.gz
